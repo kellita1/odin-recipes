@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple HTML website built as part of The Odin Project curriculum. The goal of this project is to practice basic HTML structure and syntax creating a recipes web page.
